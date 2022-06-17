@@ -61,9 +61,7 @@
 
 **QQ邮箱：3038880699@qq.com**
 
-**微博：**
 
-<img src="https://cdn.jsdelivr.net/gh/zjrwtx/myphotos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220617200845.jpg" style="zoom: 25%;" />
 
 <p id="4"></p>
 
@@ -80,19 +78,23 @@
 
 <p id="4.2.1"></p>
 
-1、专业基础
+#### 1、专业基础
 
 <p id="4.2.2"></p>
 
-2、数学基础
+#### 2、数学基础
 
 <p id="4.2.3"></p>
 
-3、编程语言
+#### 3、编程语言
 
+**大话c语言之入门篇**
 
+想用最通俗易懂的语言把复杂的技术知识拆解分享给你
 
-[CSDN](https://blog.csdn.net/weixin_52887464/category_11871658.html?spm=1001.2014.3001.5482)
+✅[知乎](https://www.zhihu.com/column/c_1520905911640461312)
+
+✅[CSDN](https://blog.csdn.net/weixin_52887464/category_11871658.html?spm=1001.2014.3001.5482)
 
 
 
@@ -102,7 +104,7 @@
 
 <p id="4.2.4"></p>
 
-4、实战项目
+#### 4、实战项目
 
 
 
