@@ -2,7 +2,7 @@
 
 ------
 
-
+✨[web版](https://zjrwtx.github.io/mycsnotes/)	✨[github原版](https://github.com/zjrwtx/mycsnotes/blob/main/index.md)
 
 ## **目录**
 
