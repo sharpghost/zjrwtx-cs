@@ -92,11 +92,9 @@
 
 **大话c语言之入门篇**
 
-想用最通俗易懂的语言把复杂的技术知识拆解分享给你
+简介：想用最通俗易懂的语言把复杂的技术知识拆解分享给你
 
-✅[知乎](https://www.zhihu.com/column/c_1520905911640461312)
-
-✅[CSDN](https://blog.csdn.net/weixin_52887464/category_11871658.html?spm=1001.2014.3001.5482)
+获取途径：✅[知乎](https://www.zhihu.com/column/c_1520905911640461312)    ✅[CSDN](https://blog.csdn.net/weixin_52887464/category_11871658.html?spm=1001.2014.3001.5482)
 
 ------
 
