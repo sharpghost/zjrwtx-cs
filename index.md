@@ -1,7 +1,6 @@
 ![](https://cdn.jsdelivr.net/gh/zjrwtx/myphotos@main/carles-rabada-GulyvMt9UwI-unsplash.jpg)
 
-[网页版](https://zjrwtx.github.io/mycsnotes/)
-[github markdown原版](https://github.com/zjrwtx/mycsnotes/edit/main/index.md)
+
 
 ## **目录**
 
@@ -13,19 +12,21 @@
 
 [ 4️⃣学习内容目录✨✨✨](#4)
 
-	[路线](#4.1)
-	
-	[组成内容](#4.2)
-	
-		[1、专业基础](#4.2.1)
-	
-		[2、数学基础](#4.2.2)
-	
-		[3、编程语言](#4.2.3)
-	
-		[4、项目实战](#4.2.4)
+[路线](#4.1)
 
+[组成内容](#4.2)
 
+[路线](#4.1)
+
+[组成内容](#4.2)
+
+	[1、专业基础](#4.2.1)
+	
+	[2、数学基础](#4.2.2)
+	
+	[3、编程语言](#4.2.3)
+	
+	[4、项目实战](#4.2.4)
 
 
 
